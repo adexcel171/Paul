@@ -14,8 +14,7 @@ function Header() {
       Singer / Musician
       </h2>
       <div className={styles.icons}>
-        <Link href="
-https://youtube.com/@shekwodizaworld">
+        <Link href="">
           <a target="_blank" rel="noreferrer">
             <FaYoutube className={styles.icon} />
           </a>

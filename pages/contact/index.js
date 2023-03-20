@@ -29,7 +29,7 @@ function ContactPage() {
             subtitle="Phone Number"
             icon={<FaPhoneSquareAlt size={45} />}
           />
-          <Items
+          <Item
             img="/images/mailbox_001.jpg"
             title="Shekwoizaworld@gmail.com"
             subtitle="Email Address"
