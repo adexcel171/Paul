@@ -39,7 +39,7 @@ function ContactPage() {
             img="/images/"
             title="Abuja Nigeria"
             subtitle="Address"
-            icon={<ImAddressBook size={44} />}
+            icon={<ImAddressBook size={45} />}
           />
         </div>
         <FormContact />
