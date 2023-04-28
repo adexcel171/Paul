@@ -7,11 +7,11 @@ function Header() {
   return (
     <main className={styles.header}>
       <h1 className="lg-heading">
-      Shekwoiza 
-        <span className={styles.textSecondary}>  world</span>
+      shekwodizaworld
+        <span className={styles.textSecondary}> </span>
       </h1>
       <h2 className="sm-heading">
-      Singer / Musician
+      A Music Ministry to the  glory of God
       </h2>
       <div className={styles.icons}>
         <Link href="">

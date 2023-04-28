@@ -22,14 +22,20 @@ function AboutPage() {
           <div className={styles.about_txt_wrapper}>
             <h1>about me..</h1>
             <h3>
-              Gospel Artist / Musician
+              Gospel Artist / Song Writer /Singer / Rapper/ instrumentalist
+              
+              i am also a contractor, plumber and Builder
         
             </h3>
             <p>
               <strong className={styles.strong}>Music</strong> is one of
               my biggest passion. I first discovered at an early stage in my life. since then i have a burning desire to live and express my lifes ministry through music.
             </p>
-            
+          
+            <strong className={styles.strong}>Motto:</strong> <p>Christ lifestyle</p> <br/>
+            <strong className={styles.strong}>Vision:</strong> <p>Minister to the world through gospel music</p>
+            <strong className={styles.strong}>Goal:</strong> <p>To bring the lost souls back to God</p>
+            <strong className={styles.strong}>Dream:</strong> <p>To have a music platform where i can raise young talents to the glory of God</p>
          
             <div className={styles.icons}>
            
